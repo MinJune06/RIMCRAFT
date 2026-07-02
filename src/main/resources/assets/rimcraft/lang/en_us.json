@@ -1,0 +1,13 @@
+{
+  "itemGroup.rimcraft": "Example Mod Tab",
+  "block.rimcraft.example_block": "Example Block",
+  "item.rimcraft.example_item": "Example Item",
+
+  "rimcraft.configuration.title": "Example Mod Configs",
+  "rimcraft.configuration.section.rimcraft.common.toml": "Example Mod Configs",
+  "rimcraft.configuration.section.rimcraft.common.toml.title": "Example Mod Configs",
+  "rimcraft.configuration.items": "Item List",
+  "rimcraft.configuration.logDirtBlock": "Log Dirt Block",
+  "rimcraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "rimcraft.configuration.magicNumber": "Magic Number"
+}
